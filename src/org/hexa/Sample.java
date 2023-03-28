@@ -1,7 +1,7 @@
 package org.hexa;
 
 public class Sample {
-  private void method3() {
+  private void method4() {
 	// TODO Auto-generated method stub
 
 }
